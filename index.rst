@@ -10,6 +10,9 @@ Welcome to OpenMage's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   overview
+   modules/index
+   tutorials/index
 
 
 Indices and tables
