@@ -7,12 +7,14 @@ Welcome to OpenMage's documentation!
 ====================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    overview
    modules/index
+   core-modules/index
    tutorials/index
+   glossary
 
 
 Indices and tables
