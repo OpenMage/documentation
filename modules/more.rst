@@ -14,13 +14,18 @@ Abandoned Carts
 Ajax Cart
 *********
 
+Cron Scheduling
+***************
+
+* https://github.com/AOEpeople/Aoe_Scheduler
 
 Swatches
 ********
 A basic implementation is already part of OpenMage,
 but there may be better or more feature rich ones out there
 
-
+Debug Toolbars
+**************
 
 SMTP
 ****
