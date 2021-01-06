@@ -14,3 +14,5 @@ You can find additional modules on Github and Packagist.
     :maxdepth: 1
 
     payment
+    themes
+    more
