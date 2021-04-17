@@ -1,8 +1,7 @@
 More Modules
 ============
 
-Some more Modules, which we did not put into a an own category yet,
-some are also just placeholders waiting to be filled with module suggestions.
+Some more Modules we think are good.
 
 Cron Scheduling
 ***************
