@@ -19,6 +19,11 @@ Cron Scheduling
 
 * https://github.com/AOEpeople/Aoe_Scheduler
 
+Logging
+***************
+
+* https://github.com/firegento/firegento-logger
+
 Swatches
 ********
 A basic implementation is already part of OpenMage,
