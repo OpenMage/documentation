@@ -19,6 +19,11 @@ Cron Scheduling
 
 * https://github.com/AOEpeople/Aoe_Scheduler
 
+Html 5 Upload Image product and cms
+***************
+This Plugin enable the upload image width html5
+it's possible ulpoad multiple image  
+
 Logging
 ***************
 
