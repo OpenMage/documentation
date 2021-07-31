@@ -64,6 +64,7 @@ Images Optimization
 *******************
 * https://github.com/fballiano/magento1-image-cleaner
 * https://github.com/yireo-magento1/Yireo_Webp
+* https://github.com/colinmollenhour/Perfect_Watermarks
 
 
 
