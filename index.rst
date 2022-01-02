@@ -11,6 +11,7 @@ Welcome to OpenMage's documentation!
    :caption: Contents:
 
    overview
+   overview/versioning
    core-modules/index
    modules/index
    tutorials/index
