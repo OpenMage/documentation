@@ -48,8 +48,7 @@ SMTP
 Product Labels/tags
 *******************
 
-Modules which offer features to add Labels or Tags to Product Lists and similar
-
+* https://github.com/customgento/CustomGento_ProductBadges
 
 Gift Cards
 **********
