@@ -8,7 +8,8 @@ Welcome to OpenMage's documentation!
 
 .. toctree::
    :maxdepth: 3
-   :caption: Contents:
+   :glob:
+   :caption: Table of Contents:
 
    overview
    overview/versioning

@@ -5,6 +5,7 @@ An overview of the Modules OpenMage brings with it
 
 .. toctree::
     :maxdepth: 1
+    :glob:
 
     Eav
     Review
@@ -12,3 +13,4 @@ An overview of the Modules OpenMage brings with it
     Rule
     Sendfriend
     Wishlist
+    *
