@@ -6,6 +6,14 @@
 Welcome to OpenMage's documentation!
 ====================================
 
+
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+
+   q&a/index
+
 .. toctree::
    :maxdepth: 3
    :glob:
