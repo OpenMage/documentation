@@ -11,7 +11,7 @@ You can find additional modules on Github and Packagist.
 
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
 
     payment
     themes
