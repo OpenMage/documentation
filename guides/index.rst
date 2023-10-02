@@ -11,3 +11,4 @@ introduction to packaging, see :doc:`/tutorials/index`.
    tool-recommendations
    product-type-differences
    websites-stores-storeviews
+   *
