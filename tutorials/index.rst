@@ -7,8 +7,10 @@ topics, see :doc:`/guides/index`.
 
 .. toctree::
     :maxdepth: 1
+    :glob:
 
     installing-using-composer
     installing-using-release-package
     managing-dependencies
     creating-documentation
+    *
