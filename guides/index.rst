@@ -7,8 +7,6 @@ introduction to packaging, see :doc:`/tutorials/index`.
 
 .. toctree::
    :maxdepth: 1
+   :glob:
 
-   tool-recommendations
-   product-type-differences
-   websites-stores-storeviews
    *
