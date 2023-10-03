@@ -1,5 +1,5 @@
 Core Modules
-=========
+============
 
 An overview of the Modules OpenMage brings with it
 

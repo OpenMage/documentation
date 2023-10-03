@@ -20,7 +20,7 @@ Cron Scheduling
 * https://github.com/AOEpeople/Aoe_Scheduler
 
 Html 5 Upload Image product and cms
-***************
+***********************************
 
 * https://github.com/anhuy1989/html5upload
 
