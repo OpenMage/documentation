@@ -66,6 +66,11 @@ Images Optimization
 * https://github.com/colinmollenhour/Perfect_Watermarks
 
 
+Infinite scroll
+***************
+
+* https://github.com/meanbee/magento-infinite-scroll.git
+
 
 
 .. toctree::
