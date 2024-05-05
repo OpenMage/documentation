@@ -15,6 +15,10 @@ PayPal
 
 https://github.com/empiricompany/openmage-paypal-pay-later-banner-info
 
+**PayPal Checkout (Germany) (propritary)**
+
+https://www.inchweb.de/magento-paypal-checkout.html
+
 .. toctree::
     :maxdepth: 1
 
