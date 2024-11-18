@@ -6,4 +6,4 @@
 Docs have moved!
 ================
 
-Please go to `docs.openmage.org https://docs.openmage.org`_
+Please go to `docs.openmage.org <https://docs.openmage.org>`_
