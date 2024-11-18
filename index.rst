@@ -3,34 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to OpenMage's documentation!
+Docs have moved! Please go to https://docs.openmage.org
 ====================================
 
-
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
-   guides/index
-   q&a/index
-
-.. toctree::
-   :maxdepth: 3
-   :glob:
-   :caption: Table of Contents:
-
-   overview
-   overview/versioning
-   core-modules/index
-   modules/index
-   tutorials/index
-   glossary
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
