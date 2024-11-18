@@ -1,4 +1,6 @@
+# ARCHIVED
 
+### Please contribute documentation changes to https://github.com/OpenMage/magento-lts/tree/main/docs which are rendered at https://docs.openmage.org
 
 
 ## Developer Info
